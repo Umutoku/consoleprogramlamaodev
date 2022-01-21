@@ -1,0 +1,15 @@
+C:\Users\umuto\Documents\tipdonusumleri\bin\Debug\net6.0\tipdonusumleri.exe
+C:\Users\umuto\Documents\tipdonusumleri\bin\Debug\net6.0\tipdonusumleri.deps.json
+C:\Users\umuto\Documents\tipdonusumleri\bin\Debug\net6.0\tipdonusumleri.runtimeconfig.json
+C:\Users\umuto\Documents\tipdonusumleri\bin\Debug\net6.0\tipdonusumleri.dll
+C:\Users\umuto\Documents\tipdonusumleri\bin\Debug\net6.0\ref\tipdonusumleri.dll
+C:\Users\umuto\Documents\tipdonusumleri\bin\Debug\net6.0\tipdonusumleri.pdb
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.csproj.AssemblyReference.cache
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.AssemblyInfoInputs.cache
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.AssemblyInfo.cs
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.dll
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\ref\tipdonusumleri.dll
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.pdb
+C:\Users\umuto\Documents\tipdonusumleri\obj\Debug\net6.0\tipdonusumleri.genruntimeconfig.cache
