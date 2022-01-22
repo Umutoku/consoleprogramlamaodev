@@ -1,0 +1,15 @@
+C:\Users\umuto\Documents\switch_case\bin\Debug\net6.0\switch_case.exe
+C:\Users\umuto\Documents\switch_case\bin\Debug\net6.0\switch_case.deps.json
+C:\Users\umuto\Documents\switch_case\bin\Debug\net6.0\switch_case.runtimeconfig.json
+C:\Users\umuto\Documents\switch_case\bin\Debug\net6.0\switch_case.dll
+C:\Users\umuto\Documents\switch_case\bin\Debug\net6.0\ref\switch_case.dll
+C:\Users\umuto\Documents\switch_case\bin\Debug\net6.0\switch_case.pdb
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfo.cs
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.dll
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\ref\switch_case.dll
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.pdb
+C:\Users\umuto\Documents\switch_case\obj\Debug\net6.0\switch_case.genruntimeconfig.cache
