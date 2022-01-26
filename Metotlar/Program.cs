@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace if_else_if
+namespace Metotlar
 {
     class Program
     {
