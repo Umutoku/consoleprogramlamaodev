@@ -1,0 +1,15 @@
+C:\Users\umuto\Documents\Algoritma_Sorulari\bin\Debug\net6.0\Algoritma_Sorulari.exe
+C:\Users\umuto\Documents\Algoritma_Sorulari\bin\Debug\net6.0\Algoritma_Sorulari.deps.json
+C:\Users\umuto\Documents\Algoritma_Sorulari\bin\Debug\net6.0\Algoritma_Sorulari.runtimeconfig.json
+C:\Users\umuto\Documents\Algoritma_Sorulari\bin\Debug\net6.0\Algoritma_Sorulari.dll
+C:\Users\umuto\Documents\Algoritma_Sorulari\bin\Debug\net6.0\ref\Algoritma_Sorulari.dll
+C:\Users\umuto\Documents\Algoritma_Sorulari\bin\Debug\net6.0\Algoritma_Sorulari.pdb
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.csproj.AssemblyReference.cache
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.AssemblyInfoInputs.cache
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.AssemblyInfo.cs
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.csproj.CoreCompileInputs.cache
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.dll
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\ref\Algoritma_Sorulari.dll
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.pdb
+C:\Users\umuto\Documents\Algoritma_Sorulari\obj\Debug\net6.0\Algoritma_Sorulari.genruntimeconfig.cache
