@@ -1,0 +1,15 @@
+C:\Users\umuto\Documents\Hazir_Metotlar_String\bin\Debug\net6.0\Hazir_Metotlar_String.exe
+C:\Users\umuto\Documents\Hazir_Metotlar_String\bin\Debug\net6.0\Hazir_Metotlar_String.deps.json
+C:\Users\umuto\Documents\Hazir_Metotlar_String\bin\Debug\net6.0\Hazir_Metotlar_String.runtimeconfig.json
+C:\Users\umuto\Documents\Hazir_Metotlar_String\bin\Debug\net6.0\Hazir_Metotlar_String.dll
+C:\Users\umuto\Documents\Hazir_Metotlar_String\bin\Debug\net6.0\ref\Hazir_Metotlar_String.dll
+C:\Users\umuto\Documents\Hazir_Metotlar_String\bin\Debug\net6.0\Hazir_Metotlar_String.pdb
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.csproj.AssemblyReference.cache
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.AssemblyInfoInputs.cache
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.AssemblyInfo.cs
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.csproj.CoreCompileInputs.cache
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.dll
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\ref\Hazir_Metotlar_String.dll
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.pdb
+C:\Users\umuto\Documents\Hazir_Metotlar_String\obj\Debug\net6.0\Hazir_Metotlar_String.genruntimeconfig.cache
